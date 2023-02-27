@@ -3,6 +3,6 @@ reg = linear_model.LinearRegression()
 reg.fit([[0, 0], [1, 1], [2, 2]], [0, 1, 2])
 
 reg.coef_
-print(reg)
+print("TESSSSS")
 
 print(reg.coef_)
